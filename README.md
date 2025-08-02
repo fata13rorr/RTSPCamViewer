@@ -1,6 +1,5 @@
 • This project came about to solve a problem for a friend who owns a bar, the security cam NVRs monitors only show tha channels currently being recorded by that NVR. 
-You cant add feeds to any other zone you need eyes on. In order to get around this I suggested we stream the RTSP feeds that the NVR is capable of serving for each channel 
-and stream them to a Raspberry pi or other SBC/Minicomp with a monitor attached. 
+You cant add feeds to any other zone you need eyes on. In order to get around this I suggested we use the RTSP feeds that many NVRs are capable of putting out, grab one for each needed channel, and stream them to a Raspberry pi or other SBC/Minicomp with a monitor attached. 
 
 •This litle script allows you to do that. 
 
